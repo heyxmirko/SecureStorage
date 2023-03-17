@@ -1,0 +1,4 @@
+name: SecureStorage
+version: '${project.version}'
+main: me.heyxmirko.securestorage.SecureStorage
+api-version: 1.19
